@@ -1,4 +1,4 @@
-# Food4Lives!!!!
+# Food4Lives
 Food for Lives is an organization, working to focus on underserved and low-resourced communities. Volunteers play a vital role in our efforts to end hunger in the United States.
 
 ## Problem Statement
