@@ -1,4 +1,4 @@
-# Goals + Deliverables
+# Food 4 Lives
 # Partner Organization: Food4Lives
 Food for Lives is a nonprofit organization, based in Atlanta, Georgia, that serves the homeless community by providing free access to meal services, protective shelter, and educational resources.  Like most nonprofits, Food for Lives relies heavily on the generosity of donors and service volunteers.  Yet as essential as charitable donations are to the normal functioning of this organization, it is imperative that Food for Lives maintains a consistent and meaningful supply of volunteers to effectively serve the needs of the homeless.  In order to meet this objective, Food for Lives has stressed to our development team the importance of informing prior, current, and prospective volunteers of the dynamic needs of the homeless community in a timely and reliable manner.
 
