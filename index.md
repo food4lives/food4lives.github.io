@@ -21,3 +21,5 @@ For our initial design architecture, we are using Flutter for the frontend and A
 - Cyndi Chin - UI / UX, Front-End Development 
 - Renil Abdulkader - Back-End Development, Authentication
 - Michael Rojas - Project Management
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQo7pznALUM1vouZ35UvNtAuS-Pc0ZM2R0kHXlHR-xVYfY17Ub_brtS6aoVPA6vtSf2v5QdzmoWYL3b/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
