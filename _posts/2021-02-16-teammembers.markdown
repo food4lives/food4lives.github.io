@@ -1,6 +1,6 @@
 ---
 layout: default
-img: teamwork.jpeg
+img: 
 category: Project Details
 title: Team Members
 description: |

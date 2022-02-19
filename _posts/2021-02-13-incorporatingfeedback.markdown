@@ -1,6 +1,6 @@
 ---
 layout: default
-img: 
+img: feedback.jpeg
 category: Project Details
 title: Incorporating Feedback
 description: |
