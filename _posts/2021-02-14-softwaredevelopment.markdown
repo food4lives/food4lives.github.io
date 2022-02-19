@@ -1,6 +1,6 @@
 ---
 layout: default
-img:
+img: wireframes.png
 category: Project Details
 title: Software Development Life Cycle
 description: |
