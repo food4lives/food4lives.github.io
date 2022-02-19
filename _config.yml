@@ -1,1 +1,30 @@
-theme: jekyll-theme-cayman
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://food4lives.github.io/
+title: Food4Lives Mobile App
+email: 
+author: Food4Lives
+description: > # "Write an awesome description for your new site here. 
+  This website serves as a landing page for the Food4Lives mobile application.
+copyright: 'Copyright &copy; 2021 Food4Lives. All Rights Reserved.'
+credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: github
+    url: https://github.com/food4lives
+  - title: org website
+    url: https://food4lives.org/
