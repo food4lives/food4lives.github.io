@@ -1,6 +1,6 @@
 ---
 layout: default
-img:
+img: ipad.png
 category: Project Details
 title: Proposed Solution / Project Solution
 description: |
